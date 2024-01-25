@@ -39,4 +39,5 @@ namespace BlazingPizza
             return GetTotalPrice().ToString("0.00");
         }
     }
+
 }
